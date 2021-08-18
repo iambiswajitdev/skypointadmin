@@ -74,13 +74,9 @@ const Login = () => {
                       />
                     </div>
                     <div className="loginForgetpassword">
-                      <a className="reistation" href="">
-                        Registration
-                      </a>
+                      <button className="reistation">Registration</button>
                       <span>OR</span>
-                      <a className="forgot" href="">
-                        Forgot Password ?
-                      </a>
+                      <button className="forgot">Forgot Password ?</button>
                     </div>
                   </Col>
                 </Row>
